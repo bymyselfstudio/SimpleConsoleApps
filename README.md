@@ -8,3 +8,5 @@ The more I know solutions will get smarter :)
 Most of my codes might be improved, but to understand where the magic happens I oftenly
 build my own logic and try to get things work in that order. Later I optimize them to 
 match performance issues or to improve the readability.
+
+tbc
