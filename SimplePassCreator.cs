@@ -33,7 +33,9 @@ namespace SimplePassCreator
 
                 //Special characters
                 '!', '%', '+', '?', '$', '&'
-                //'_', '~', '/'  , '[', ']', '(', ')'
+                
+                // Un-comment characters for more variations
+                //'_', '~', '/' , '[', ']', '(', ')'
             };
 
             Console.WriteLine
