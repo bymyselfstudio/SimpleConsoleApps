@@ -6,8 +6,8 @@ namespace CalculateBMI
     {
 		public static void Main()
 		{
-			// Example input: 85;1,87 --> 85kg, 1,87m (no space in between!)
 			Console.Write("Type your weight in kg and your size in m. Separate values with semikolon: ");
+			// Example input: 85;1,87
 			string values = Console.ReadLine();
 			Console.WriteLine($"Your BMI is: {GetBMI(values)}");
 		}
