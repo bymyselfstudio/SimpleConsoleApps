@@ -46,7 +46,7 @@ class MatrixStylePrint
         {
             for (int i = 0; i < text.Length; i++)
             {
-                Console.Write(text[i].ToString());
+                Console.Write(text[i]);
                 Thread.Sleep(sleepTime);
             }
             counter++;
