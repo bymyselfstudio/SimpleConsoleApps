@@ -4,7 +4,7 @@ class MatrixStylePrint
 
     public MatrixStylePrint(string caption)
     {
-        Caption = caption;
+        Caption = caption.ToUpper();
     }
 
     /// <summary>
